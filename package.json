@@ -1,0 +1,19 @@
+{
+  "name": "testgrunt",
+  "version": "1.0.0",
+  "description": "testing grunt",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt",
+    "tooling",
+    "taskrunning"
+  ],
+  "author": "Peter Vitez",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
+}
