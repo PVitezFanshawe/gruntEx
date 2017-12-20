@@ -15,5 +15,6 @@
   "license": "MIT",
   "dependencies": {
     "grunt": "^1.0.1"
-  }
+  },
+  "devDependencies": {}
 }
